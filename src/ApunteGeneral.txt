@@ -1,0 +1,19 @@
+Recuerda:
+
+-Es mejor exportar un archivo y hacer varios archivos a realizar funciones
+
+
+
+Estructura{
+    New funciones: {
+
+        function TodoSearch(params) {
+    return(
+        <input placeholder="Realizar TODOS"/>
+    );
+}
+
+export { TodoSearch };
+    }
+},
+
